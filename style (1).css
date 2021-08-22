@@ -1,0 +1,13 @@
+.full-body{
+    width:80%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+.mac-image{
+    margin-right: 40px;
+}
+
+.mac-body{
+    display: flex;
+}
